@@ -1,5 +1,5 @@
 
-it('First test', function(){
+
+it('Open site', function(){
     cy.visit('https://automationstepbystep.com/')
-    
 })
